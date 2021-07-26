@@ -1,0 +1,12 @@
+nav {
+    height: 70px;
+    font-size: large;
+}
+
+.jumbotron {
+    padding-top: 7rem;
+    background-color: aliceblue;
+}
+section {
+    padding-top: 5rem;
+}
